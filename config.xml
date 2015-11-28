@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<appconfig><dict name="enabled_handlers"><bool name="screen">True</bool><bool name="elasticsearch">False</bool><bool name="file">True</bool></dict><str name="hostname">dc1.example.com</str><str name="filename">honeypot_output.txt</str><dict name="elasticsearch"><str name="index">honeypot</str><str name="host">0.0.0.0</str><int name="port">9200</int></dict><int name="port">2300</int></appconfig>
